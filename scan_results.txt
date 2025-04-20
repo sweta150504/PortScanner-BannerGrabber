@@ -1,0 +1,17 @@
+Port 80 is open - Banner: HTTP/1.1 400 Bad Request
+Date: Sun, 20 Apr 2025 16:48:16 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Content-Length: 306
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+<hr>
+<address>Apache/2.4.7 (Ubuntu) Server at scanme.nmap.org Port 80</address>
+</body></html>
